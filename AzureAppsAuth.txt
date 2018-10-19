@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/azure/app-service/app-service-authentication-overview
+https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-appmodel-v2-overview
+https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-asp-webapp
+https://azure.microsoft.com/en-us/resources/samples/active-directory-aspnetcore-webapp-openidconnect-v2/
