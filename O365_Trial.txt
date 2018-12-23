@@ -6,6 +6,7 @@ https://signup.microsoft.com/Signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4
 https://www.office.com/?auth=2&home=1
 https://portal.office.com/adminportal/home
 https://outlook.office365.com/owa
+https://portal.azure.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 dvitus181218@outlook.com
 P@181218
@@ -18,7 +19,6 @@ Arunkumar.Balasubramani@DxITUS181218.onmicrosoft.com
 P@ssw0rd1
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 dxit181130@outlook.com
 P@181130
 
