@@ -1,0 +1,9 @@
+
+IIS Hostable Web Core
+
+https://blogs.iis.net/sukesh/iis7-hosted-web-core-custom-service-webcoreservice
+https://blogs.iis.net/ksingla/ins-amp-outs-of-hostable-web-core
+
+https://weblogs.asp.net/ricardoperes/hosting-http-resources
+http://www.awesomeideas.net/page/iis7-hostable-webcore.aspx
+https://github.com/cloudfoundry/windows_app_lifecycle
